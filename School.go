@@ -26,6 +26,7 @@ func main() {
 		fmt.Printf("Murid terdaftar dan berada di urutan absen ke-%d", x)
 	} else {
 		fmt.Println("Murid tidak terdaftar")
+		fmt.Println("Murid tidak terdaftar")
 	}
 }
 
